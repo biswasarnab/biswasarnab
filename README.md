@@ -1,3 +1,3 @@
 <p>coding is good ig.</p>
 
-<img src="desk-img.jpg" width="435">
+<img src="desk-img.jpg" width="430">
